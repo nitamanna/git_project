@@ -1,4 +1,5 @@
 // subtract.js
-	function subtract(a, b) {
-	    // TODO return
-	};
+// return subtraction of two numbers
+function subtract(a, b) {
+    return a - b;
+};
